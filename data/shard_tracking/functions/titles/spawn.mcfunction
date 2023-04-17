@@ -4,6 +4,7 @@ tag @s remove title_void
 tag @s remove title_yot
 tag @s remove title_ult
 tag @s remove title_tasnek
+tag @s remove title_bazmazan
 
 title @s[tag=!title_spawn] subtitle {"text":"The Safe Haven."}
 title @s[tag=!title_spawn] title {"text":"Spawn","bold":true,"color":"yellow"}
