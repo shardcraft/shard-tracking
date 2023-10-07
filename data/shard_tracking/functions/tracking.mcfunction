@@ -37,5 +37,8 @@ scoreboard players set @a[nbt={Dimension: "minecraft:overworld"},x=2032,y=-1024,
 # North West shard
 # scoreboard players set @a[nbt={Dimension:"minecraft:overworld"},x=-17408,y=-1024,z=-10240,dx=5631,dy=2048,dz=5631] shard 3
 
-# Exploration shard
+# Unstable shard
 execute in shardcraft:bazmazan run scoreboard players set @a[nbt={Dimension: "shardcraft:bazmazan"}] shard 116
+
+# Blank shard
+execute in shardcraft:aynkar run scoreboard players set @a[nbt={Dimension: "shardcraft:aynkar"}] shard 117
