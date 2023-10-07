@@ -15,7 +15,7 @@ particle minecraft:smoke -4960.0 81.5 -99925.0 2 2 2 0.05 2
 # Bazmazan
 particle minecraft:end_rod -4959.0 67.5 -100009.0 2 2 2 0.05 2
 # Aynkar
-particle minecraft:end_rod -4940.0 81.5 -100048.0 2 2 2 0.05 2
+particle minecraft:end_rod -4940.0 76.5 -100048.0 2 2 2 0.05 2
 
 # Debug
 execute if score global clocks matches 0 run tell @a[team=debug] shard_tracking
