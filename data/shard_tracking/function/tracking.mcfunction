@@ -22,11 +22,11 @@ scoreboard players set @a[nbt={Dimension: "minecraft:overworld"},x=2032,y=-1024,
 # North East shard
 # scoreboard players set @a[nbt={Dimension:"minecraft:overworld"},x=2048,y=-1024,z=-10240,dx=5631,dy=2048,dz=5631] shard 3
 
-# South East shard
-# scoreboard players set @a[nbt={Dimension:"minecraft:overworld"},x=2048,y=-1024,z=9216,dx=5631,dy=2048,dz=5631] shard 3
+# South East shard (Khramet)
+#scoreboard players set @a[nbt={Dimension:"minecraft:overworld"},x=2048,y=-1024,z=9216,dx=5631,dy=2048,dz=5631] shard 3
 
 # Southern shard
-# scoreboard players set @a[nbt={Dimension:"minecraft:overworld"},x=-7680,y=-1024,z=9216,dx=5631,dy=2048,dz=5631] shard 3
+scoreboard players set @a[nbt={Dimension:"minecraft:overworld"},x=-7680,y=-1024,z=9216,dx=5631,dy=2048,dz=5631] shard 121
 
 # South West shard
 # scoreboard players set @a[nbt={Dimension:"minecraft:overworld"},x=-17408,y=-1024,z=9216,dx=5631,dy=2048,dz=5631] shard 3

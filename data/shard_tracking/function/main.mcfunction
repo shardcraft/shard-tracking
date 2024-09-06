@@ -11,7 +11,7 @@ particle minecraft:end_rod -4960.0 81.5 -100076.0 2 2 2 0.05 2
 # Tasnek
 particle minecraft:end_rod -4885.0 81.5 -100000.0 2 2 2 0.05 2
 # Khramet
-particle minecraft:smoke -4960.0 81.5 -99925.0 2 2 2 0.05 2
+particle minecraft:end_rod -4960.0 81.5 -99925.0 2 2 2 0.05 2
 # Bazmazan
 particle minecraft:end_rod -4959.0 67.5 -100009.0 2 2 2 0.05 2
 # Aynkar
