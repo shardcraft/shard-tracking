@@ -3,4 +3,4 @@ execute in minecraft:the_nether run title @s[gamemode=adventure] subtitle {"text
 execute in minecraft:the_nether run title @s[gamemode=adventure] title {"text":"-- ERROR --","bold":true,"color":"dark_red"}
 
 # Debug
-tell @a[team=debug]   -- shard_netherGuard
+tell @a[team=debug] "  -- shard_netherGuard"
