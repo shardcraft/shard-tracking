@@ -3,7 +3,5 @@ execute as @a[nbt={Dimension: "minecraft:the_end"}] run function shard_tracking:
 execute as @a[nbt={Dimension: "minecraft:overworld"},scores={shard=1}] run function shard_tracking:titles/spawn
 execute as @a[nbt={Dimension: "minecraft:overworld"},scores={shard=3}] run function shard_tracking:titles/void
 execute as @a[nbt={Dimension: "minecraft:overworld"},scores={shard=17}] run function shard_tracking:titles/yot
-execute as @a[nbt={Dimension: "minecraft:overworld"},scores={shard=113}] run function shard_tracking:titles/tasnek
-execute as @a[nbt={Dimension: "minecraft:overworld"},scores={shard=121}] run function shard_tracking:titles/khramet
-execute as @a[nbt={Dimension: "shardcraft:bazmazan"},scores={shard=116}] run function shard_tracking:titles/bazmazan
+execute as @a[nbt={Dimension: "minecraft:overworld"},scores={shard=121}] run function shard_tracking:titles/bazmazan
 execute as @a[nbt={Dimension: "shardcraft:aynkar"},scores={shard=117}] run function shard_tracking:titles/aynkar
