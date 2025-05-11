@@ -2,7 +2,6 @@ tag @s remove title_theNether
 tag @s remove title_theEnd
 tag @s remove title_spawn
 tag @s remove title_yot
-tag @s remove title_tasnek
 tag @s remove title_bazmazan
 tag @s remove title_aynkar
 
