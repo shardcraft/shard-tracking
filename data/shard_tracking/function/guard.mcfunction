@@ -21,3 +21,5 @@ gamemode survival @a[nbt={Dimension: "minecraft:overworld"},gamemode=adventure,s
 gamemode survival @a[nbt={Dimension: "shardcraft:aynkar"},gamemode=adventure,scores={shard=17..}]
 gamemode survival @a[nbt={Dimension: "minecraft:the_nether"},gamemode=adventure,scores={positionY=..127}]
 gamemode survival @a[nbt={Dimension: "minecraft:the_end"},gamemode=adventure]
+
+schedule function shard_tracking:guard 1s replace

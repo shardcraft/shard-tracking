@@ -5,3 +5,5 @@ execute as @a[nbt={Dimension: "minecraft:overworld"},scores={shard=3}] run funct
 execute as @a[nbt={Dimension: "minecraft:overworld"},scores={shard=17}] run function shard_tracking:titles/yot
 execute as @a[nbt={Dimension: "minecraft:overworld"},scores={shard=121}] run function shard_tracking:titles/bazmazan
 execute as @a[nbt={Dimension: "shardcraft:aynkar"},scores={shard=117}] run function shard_tracking:titles/aynkar
+
+schedule function shard_tracking:titles 1s replace

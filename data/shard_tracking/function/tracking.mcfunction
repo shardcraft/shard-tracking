@@ -39,3 +39,5 @@ scoreboard players set @a[nbt={Dimension:"minecraft:overworld"},x=-7680,y=-1024,
 
 # Blank shard
 execute in shardcraft:aynkar run scoreboard players set @a[nbt={Dimension: "shardcraft:aynkar"}] shard 117
+
+schedule function shard_tracking:tracking 1s replace
