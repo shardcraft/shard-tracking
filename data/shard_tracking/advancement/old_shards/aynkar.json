@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:prismarine_shard"
+    },
+    "title": "Aynkar",
+    "frame": "task",
+    "description": "Explore Aynkar, the blank shard.",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "shard_tracking:old_shards/root",
+  "criteria": {
+    "nothing": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

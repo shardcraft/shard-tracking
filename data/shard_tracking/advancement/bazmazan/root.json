@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:spyglass"
+    },
+    "title": "Bazmazan",
+    "frame": "task",
+    "description": "Bazmazan, the shifting shard.",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "shard_core:root",
+  "criteria": {
+    "nothing": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+advancement grant @a only shard_tracking:bazmazan/root

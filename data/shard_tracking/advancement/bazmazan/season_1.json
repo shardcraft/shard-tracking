@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:music_disc_creator"
+    },
+    "title": "Bazmazan: Season I",
+    "frame": "challenge",
+    "description": "Explore Bazmazan, the Tricky Trials shard.",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "shard_tracking:bazmazan/root",
+  "criteria": {
+    "nothing": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "shard_tracking:rewards/bazmazan_1"
+  }
+}
