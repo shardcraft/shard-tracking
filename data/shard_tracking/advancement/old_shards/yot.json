@@ -4,7 +4,7 @@
       "id": "minecraft:prismarine_shard"
     },
     "title": "Yot",
-    "frame": "task",
+    "frame": "challenge",
     "description": "Explore Yot, the original shard.",
     "show_toast": true,
     "announce_to_chat": true,
