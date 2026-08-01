@@ -10,7 +10,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "shard_tracking:old_shards/root",
+  "parent": "shard_tracking:old_shards/tasnek",
   "criteria": {
     "nothing": {
       "trigger": "minecraft:impossible"

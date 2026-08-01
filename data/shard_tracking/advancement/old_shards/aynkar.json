@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:prismarine_shard"
+      "id": "minecraft:map"
     },
     "title": "Aynkar",
     "frame": "challenge",
@@ -10,7 +10,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "shard_tracking:old_shards/root",
+  "parent": "shard_tracking:old_shards/khramet",
   "criteria": {
     "nothing": {
       "trigger": "minecraft:impossible"
